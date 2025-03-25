@@ -28,3 +28,6 @@ body {
     position: absolute;
     transition: top 0.5s, left 0.5s;
 }
+.all{
+    cursor: url('icons8-rocket-48.svg'),auto;
+}
