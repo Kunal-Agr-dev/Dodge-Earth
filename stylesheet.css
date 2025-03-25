@@ -10,9 +10,10 @@ body {
     align-items: center;
     height: 100vh;
     background-image: url("https://c1.wallpaperflare.com/preview/85/553/267/stars-background-blue-photoshop.jpg");
+    background-size:cover;
     margin: 0;
-    /* overflow: hidden;
-    position: relative; */
+    overflow: hidden;
+    position: relative;
 }
 
 .box {
