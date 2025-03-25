@@ -1,0 +1,29 @@
+.para{
+    color:white;
+    position: fixed;
+    margin-top:10px;
+    font-size: xx-large;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://c1.wallpaperflare.com/preview/85/553/267/stars-background-blue-photoshop.jpg");
+    margin: 0;
+    /* overflow: hidden;
+    position: relative; */
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-image: url("earth.png");
+    border:none;
+    box-shadow: 0 0 20px rgb(50, 211, 243);
+    background-size:220px;
+    background-position: center;
+    border-radius:50%;
+    position: absolute;
+    transition: top 0.5s, left 0.5s;
+}
